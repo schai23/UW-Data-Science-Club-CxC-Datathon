@@ -1,6 +1,6 @@
 # UW-Data-Science-Club-CxC-Datathon
 
-Welcome to my portfolio! This repository serves as a comprehensive record of my projects, work, and workshops undertaken during my time at the University of Waterloo (UW) Data Science program and participation in the CxC Datathon.
+Welcome to my portfolio! This repository serves as a comprehensive record of my projects, work, and workshops undertaken during my time and participation at the University of Waterloo (UW) Data Science Club & CxC Datathon.
 
 ## Table of Contents
 - [About Me](#about-me)
